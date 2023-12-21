@@ -29,9 +29,8 @@ print(distance())
 
 
 ### OUTPUT:
-![Screenshot 2023-10-18 211421](https://github.com/Jeshwanthkumarpayyavula/DISTANCE-BETWEEN-TWO-POINTS/assets/145742402/0d4222fc-a23d-4883-a72d-8bd3f3219a44)
 
-
+![Screenshot 2023-12-21 170602](https://github.com/Jeshwanthkumarpayyavula/DISTANCE-BETWEEN-TWO-POINTS/assets/145742402/963dc66e-d0d9-4e27-a2e4-5433b344790b)
 
 ### RESULT:
 Thus distance between two values successfully executed
